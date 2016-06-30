@@ -1,0 +1,23 @@
+[15-Jun-2016 07:57:20 UTC] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/goster01/public_html/staging/myfcms/application/views/myf/footer.php on line 39
+[15-Jun-2016 07:58:35 UTC] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/goster01/public_html/staging/myfcms/application/views/myf/footer.php on line 39
+[15-Jun-2016 08:14:09 UTC] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/goster01/public_html/staging/myfcms/application/views/myf/footer.php on line 39
+[15-Jun-2016 08:14:16 UTC] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/goster01/public_html/staging/myfcms/application/views/myf/footer.php on line 39
+[15-Jun-2016 08:14:50 UTC] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/goster01/public_html/staging/myfcms/application/views/myf/footer.php on line 39
+[15-Jun-2016 08:14:55 UTC] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/goster01/public_html/staging/myfcms/application/views/myf/footer.php on line 39
+[15-Jun-2016 08:19:31 UTC] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/goster01/public_html/staging/myfcms/application/views/myf/footer.php on line 39
+[15-Jun-2016 08:20:08 UTC] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/goster01/public_html/staging/myfcms/application/views/myf/footer.php on line 39
+[15-Jun-2016 08:20:08 UTC] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/goster01/public_html/staging/myfcms/application/views/myf/footer.php on line 39
+[15-Jun-2016 08:20:08 UTC] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/goster01/public_html/staging/myfcms/application/views/myf/footer.php on line 39
+[15-Jun-2016 08:20:53 UTC] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/goster01/public_html/staging/myfcms/application/views/myf/footer.php on line 39
+[15-Jun-2016 08:22:57 UTC] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/goster01/public_html/staging/myfcms/application/views/myf/footer.php on line 39
+[15-Jun-2016 08:23:14 UTC] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/goster01/public_html/staging/myfcms/application/views/myf/footer.php on line 39
+[15-Jun-2016 08:32:58 UTC] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/goster01/public_html/staging/myfcms/application/views/myf/footer.php on line 39
+[15-Jun-2016 08:45:02 UTC] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/goster01/public_html/staging/myfcms/application/views/myf/footer.php on line 39
+[16-Jun-2016 07:50:18 UTC] PHP Fatal error:  Function name must be a string in /home/goster01/public_html/staging/myfcms/application/views/myf/gallery.php on line 56
+[16-Jun-2016 07:50:50 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/goster01/public_html/staging/myfcms/application/views/myf/gallery.php on line 56
+[16-Jun-2016 07:50:58 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/goster01/public_html/staging/myfcms/application/views/myf/gallery.php on line 56
+[16-Jun-2016 07:51:29 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/goster01/public_html/staging/myfcms/application/views/myf/gallery.php on line 56
+[16-Jun-2016 07:51:36 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/goster01/public_html/staging/myfcms/application/views/myf/gallery.php on line 56
+[16-Jun-2016 10:41:52 UTC] PHP Fatal error:  Call to undefined method stdClass::YEAR() in /home/goster01/public_html/staging/myfcms/application/libraries/Aaa.php on line 976
+[16-Jun-2016 10:45:53 UTC] PHP Fatal error:  Call to undefined method stdClass::YEAR() in /home/goster01/public_html/staging/myfcms/application/libraries/Aaa.php on line 977
+[16-Jun-2016 10:53:39 UTC] PHP Fatal error:  Call to undefined method stdClass::YEAR() in /home/goster01/public_html/staging/myfcms/application/views/myf/gallery.php on line 44

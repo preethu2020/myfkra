@@ -1,0 +1,18 @@
+<?php  $page= 'home'; ?>
+<?php include('header.php'); ?>
+
+<div id="pt-main" class="pt-perspective">
+<div class="pt-page pt-page-1">
+  <?php include('home.php'); ?>
+
+<div class="pt-page pt-page-2">
+
+</div>
+<div class="pt-page pt-page-3">
+
+</div>
+<div class="pt-page pt-page-4"></div>
+<div class="pt-page pt-page-5"></div>
+<div class="pt-page pt-page-6"></div>
+</div>
+<?php include('footer.php'); ?>

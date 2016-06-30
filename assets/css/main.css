@@ -1,0 +1,26 @@
+@import url("bootstrap.css");
+@import url("animate.css");
+@import url("../rs-plugin/css/settings.css");
+@import url("rev-settings.css");
+@import url("parallax.css");
+@import url("supersized.css");
+@import url("jquery.bxslider.css");
+@import url("style.css");
+@import url("cubeportfolio.min.css");
+@import url("font-awesome.min.css");
+@import url("responsive.css");
+.pagination ul
+{
+margin-left: 0;
+padding-left: 0;
+white-space: nowrap;
+
+}
+.pagination li{
+display: inline;
+list-style-type: none;
+}
+
+.pagination a{ padding: 3px 10px; }
+
+
